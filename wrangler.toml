@@ -1,0 +1,7 @@
+name = "rps"
+type = "javascript"
+account_id = "99fb5dbbb4541f4b8993b0d4a0b2a598"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-01-05"
