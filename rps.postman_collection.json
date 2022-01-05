@@ -10,7 +10,25 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": "http://rps.arzors-workspace.workers.dev/?choice=rock",
+					"protocol": "http",
+					"host": [
+						"rps",
+						"arzors-workspace",
+						"workers",
+						"dev"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "choice",
+							"value": "rock"
+						}
+					]
+				}
 			},
 			"response": []
 		},
@@ -19,7 +37,25 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": "http://rps.arzors-workspace.workers.dev/?choice=paper",
+					"protocol": "http",
+					"host": [
+						"rps",
+						"arzors-workspace",
+						"workers",
+						"dev"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "choice",
+							"value": "paper"
+						}
+					]
+				}
 			},
 			"response": []
 		},
@@ -28,7 +64,25 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": "http://rps.arzors-workspace.workers.dev/?choice=scissors",
+					"protocol": "http",
+					"host": [
+						"rps",
+						"arzors-workspace",
+						"workers",
+						"dev"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "choice",
+							"value": "scissors"
+						}
+					]
+				}
 			},
 			"response": []
 		}
